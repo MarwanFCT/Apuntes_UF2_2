@@ -63,7 +63,7 @@ Hay varias técnicas diferentes que se utilizan en la refactorización como por 
 
 ##### TIPOS DE DOCUMENTACIÓN
  
-####### Existen los siguientes tipos de documentación:
+###### Existen los siguientes tipos de documentación:
 
 -**Documentación de código** Documentación que deja plasmado la explicación de la función de cada línea de código de manera clara y detallada para que cualquier otro programador pueda entenderlo.
 
@@ -71,7 +71,7 @@ Hay varias técnicas diferentes que se utilizan en la refactorización como por 
 
 -**Documentación de usuario** Documentación que deja plasmado las instrucciones o pautas que debe seguir el usuario para utilizar el programa y aclaraciones varias sobre el mismo que pueden ser de utilidad para el usuario final.
 
-####### FORMATOS DE DOCUMENTACIÓN
+###### FORMATOS DE DOCUMENTACIÓN
 
 -**HTML** (Ej: Javadoc)
 
