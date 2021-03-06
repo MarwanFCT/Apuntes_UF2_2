@@ -9,7 +9,7 @@
 
 #### INTRODUCCIÓN
 
-######En esta unidad aprenderemos a:
+**En esta unidad aprenderemos a:**
 - Ser capaces de trabajar de forma habitual con sistemas de control de versiones.
 - Identificar patrones de refactorización más usuales.
 - Revisar el código fuente usando analizadores de código.
@@ -33,20 +33,30 @@ Se suele solucionar con una buena refactorización el código.
  
  **Análisis estático** Lint
  *El análisis estático se puede realizar de dos formas:*
+ 
 -Mediante analizadores estáticos (linters)
+
 -Mediante sitios web para inspección de código (Continuous Inspection)
 
 #### REFACTORIZACIÓN
 Es el proceso de realizar una reestructuración en pequeños pasos. Pudiendo así hacerlo: 
+
 -Más eficiente.
+
 -Menos redundante.
+
 -Más funcional.
+
 -Más Facil de interpretar.
 
 Hay varias técnicas diferentes que se utilizan en la refactorización como por ejemplo:
+
 -Renombrado de variables a nombres funcionales y entendibles.
+
 -Pasar código duplicado a funciones.
+
 -Eliminación de código no utilizado.
+
 -Eliminación de código redundante.
 
 #### DOCUMENTACIÓN
@@ -54,14 +64,21 @@ Hay varias técnicas diferentes que se utilizan en la refactorización como por 
 ##### TIPOS DE DOCUMENTACIÓN
  
 ####### Existen los siguientes tipos de documentación:
+
 -**Documentación de código** Documentación que deja plasmado la explicación de la función de cada línea de código de manera clara y detallada para que cualquier otro programador pueda entenderlo.
+
 -**Documentación técnica** Documentación que deja en constancia la explicación del proyecto o programa en sí, sin ahondar en temas de programación complejos ni la funcionalidad del mismo.
+
 -**Documentación de usuario** Documentación que deja plasmado las instrucciones o pautas que debe seguir el usuario para utilizar el programa y aclaraciones varias sobre el mismo que pueden ser de utilidad para el usuario final.
 
 ####### FORMATOS DE DOCUMENTACIÓN
+
 -**HTML** (Ej: Javadoc)
+
 -**Markdown** (Ej: Github)
+
 -**reStructuredText** (Ej: Sphinx)
+
 -**asciiDoc**
 
 
