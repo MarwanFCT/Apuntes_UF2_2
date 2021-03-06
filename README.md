@@ -3,7 +3,7 @@
 ### INDICE DEL TEMARIO
 
  - [**INTRODUCCIÓN**](https://github.com/MarwanFCT/Apuntes_UF2_2/blob/main/README.md#introducci%C3%B3n)
- - [**OPTIMIZACIÓN**](https://github.com/MarwanFCT/Apuntes_UF2_1/blob/main/README.md#pruebas)
+ - [**OPTIMIZACIÓN**](https://github.com/MarwanFCT/Apuntes_UF2_2/blob/main/README.md#optimizaci%C3%B3n)
  - [**DOCUMENTACIÓN**](https://github.com/MarwanFCT/Apuntes_UF2_1/blob/main/README.md#integraci%C3%B3n)
 
 
