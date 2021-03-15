@@ -13,7 +13,7 @@
 - Ser capaces de trabajar de forma habitual con sistemas de control de versiones.
 - Identificar patrones de refactorización más usuales.
 - Revisar el código fuente usando analizadores de código.
-- Documentación del código fuente al programart.
+- Documentación del código fuente al programar.
 
 #### OPTIMIZACIÓN
 
